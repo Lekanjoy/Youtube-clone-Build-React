@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.429e798a.css",
+    "main.js": "/static/js/main.6f53eda9.js",
+    "static/js/787.36e73411.chunk.js": "/static/js/787.36e73411.chunk.js",
+    "static/media/youtube_player_video_icon.svg": "/static/media/youtube_player_video_icon.cf9cd84b2cb77d3e26ffa9d7a6c6297c.svg",
+    "static/media/notification_icon.svg": "/static/media/notification_icon.2691c9f809f690f1b10f55af2dc50019.svg",
+    "index.html": "/index.html",
+    "static/media/search_icon.svg": "/static/media/search_icon.de1b87f4fecb908979e94b16a59a1026.svg",
+    "static/media/2205213_mic_microphone_record_speak_icon.svg": "/static/media/2205213_mic_microphone_record_speak_icon.f73919352de22cec8e032f383376c116.svg",
+    "static/media/menu.svg": "/static/media/menu.6675cefb5516ab9a14c36573feaeae35.svg",
+    "static/media/home_icon.svg": "/static/media/home_icon.c714d85820ad614e972cf2ec90367ffc.svg",
+    "main.429e798a.css.map": "/static/css/main.429e798a.css.map",
+    "main.6f53eda9.js.map": "/static/js/main.6f53eda9.js.map",
+    "787.36e73411.chunk.js.map": "/static/js/787.36e73411.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.429e798a.css",
+    "static/js/main.6f53eda9.js"
+  ]
+}
